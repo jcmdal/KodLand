@@ -3,7 +3,7 @@ from pygame import Rect
 
 WIDTH = 800
 HEIGHT = 600
-TITLE = "KodZombie"
+TITLE = "KodZombies"
 
 game_running = False
 game_over = False
